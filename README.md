@@ -32,3 +32,16 @@ Review of the results of the T-tests on suspensions coils across all lots show t
 <img width="554" alt="Screen Shot 2022-04-17 at 12 14 23 PM" src="https://user-images.githubusercontent.com/90944163/163725294-08f70335-1d7f-4928-9011-47757364d664.png">
 
 
+## Study Design:  MechaCar vs Competition
+### What metric or metrics are you going to test?
+A possible statistical study that can quantify how the MechaCar performs against the competition would be a comparison of fuel efficiency across various conditions (i.e. city vs. highway driving). 
+
+### What is the null hypothesis or alternative hypothesis?
+H0: There is no statistical difference between the MechaCar mpg and the competition mpg.
+Ha: The mean MechaCar mpg is greater than the mean competition mpg. 
+
+### What statistical test would you use to test the hypothesis, and why?
+I would use the t-test to compare data across the competitors.  This test was used in the current project for suspension coils between MechaCars to obtain the appropriate information to compare manufacturing lots and could be used to similarly compare competitors. 
+
+### What data is needed to run the statistical test?
+A dataset of information from similar car classes (compact, subcompact, etc.) would be used; variables could include engine size, vehicle weight, AWD (similar to the dataset utilized in the MechaCar MPG linear regression testing above). 
