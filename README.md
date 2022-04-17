@@ -17,6 +17,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img width="1131" alt="Screen Shot 2022-04-17 at 11 45 47 AM" src="https://user-images.githubusercontent.com/90944163/163724273-5f06487f-9618-4ecb-8be4-9b35196ca7a0.png">
 
 ## T-Tests on Suspension Coils
+Review of the results of the T-tests on suspensions coils across all lots show that the p-value is not low enough (0.06028) to reject null hypothesis and not statistically different from the population mean.  Similarly, lot 1 and 2 p-values (1 and 0.6072, respectively) are also not low enough to reject the null hypothesis and are not statistically different from the population mean. However, lot 3 p-value is under 0.05 at 0.0417, which is low enough to reject the null hypothesis and is statistically different from the population mean.  
 
 ### All Lots
 <img width="424" alt="Screen Shot 2022-04-17 at 12 10 48 PM" src="https://user-images.githubusercontent.com/90944163/163725269-b2c383aa-f258-4d7b-b5ca-6c35e9b63b71.png">
